@@ -2,6 +2,10 @@
 
 A Streamlit app for low-impact, passive website checks on sites the operator owns or is explicitly authorized to assess.
 
+## Live demo
+
+[Open BugHunter AI Web Scanner](https://bughunter-ai-webscanner-xnctc2mg8yyzo5fuiy4tqm.streamlit.app/)
+
 ## Features
 - Scan a website by entering its URL.
 - Limited same-origin crawl of public HTML pages.
